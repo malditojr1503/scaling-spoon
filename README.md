@@ -1,11 +1,9 @@
 [find_sources.txt.pdf](https://github.com/malditojr1503/scalin
-- 👋 Hi, I’m @malditojr1503
-- 👀 I’m interested in ...
+- Hi, I’m @malditojr1503
+-  I’m interested in learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-malditojr1503/malditojr1503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+malditojr1503/malditojr1503
